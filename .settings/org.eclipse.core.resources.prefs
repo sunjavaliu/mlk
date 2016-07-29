@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//minglu/migrations/0001_initial.py=utf-8
+encoding//minglu/migrations/0002_auto_20151223_0853.py=utf-8
+encoding//minglu/models.py=utf8
+encoding//minglu/templates/base.html=UTF-8
+encoding//minglu/templates/index.html=UTF-8
+encoding//minglu/views.py=utf8
+encoding//mingluku/settings.py=utf8
+encoding//mingluku/urls.py=utf8
